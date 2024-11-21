@@ -1,0 +1,27 @@
+[
+  {
+    "livro": "O Guia do Mochileiro das Galáxias",
+    "ano": 1979,
+    "nota": 8.7
+  },
+  {
+    "livro": "O Restaurante no Fim do Universo",
+    "ano": 1980,
+    "nota": 9.1
+  },
+  {
+    "livro": "A Vida, o Universo e Tudo Mais",
+    "ano": 1982,
+    "nota": 8.4
+  },
+  {
+    "livro": "Até Mais, e Obrigado pelos Peixes!",
+    "ano": 1984,
+    "nota": 8.9
+  },
+  {
+    "livro": "Praticamente Inofensiva",
+    "ano": 1992,
+    "nota": 7.5
+  }
+]
